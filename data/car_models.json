@@ -1,0 +1,26 @@
+{
+  "Honda": [
+    "Civic", "Civic Type R", "Civic RS", "City", "CR-V", "HR-V", "BR-V", "Brio", "Jazz", "Accord", "Pilot", "Odyssey"
+  ],
+  "Toyota": [
+    "Vios", "Corolla Altis", "Camry", "Fortuner", "Hilux", "Innova", "Avanza", "Wigo", "RAV4", "Land Cruiser", "Prado", "Rush", "Hiace", "Yaris", "Yaris Cross", "Corolla Cross", "Zenix", "Alphard"
+  ],
+  "Mitsubishi": [
+    "Montero Sport", "Xpander", "Xpander Cross", "Mirage", "Mirage G4", "Strada", "Triton", "L300", "Outlander", "Pajero"
+  ],
+  "Nissan": [
+    "Navara", "Terra", "Almera", "Urvan", "Patrol", "Livina", "Kicks", "X-Trail", "370Z", "GT-R"
+  ],
+  "Ford": [
+    "Ranger", "Ranger Raptor", "Everest", "Territory", "Mustang", "EcoSport", "Explorer", "Expedition"
+  ],
+  "Hyundai": [
+    "Accent", "Tucson", "Santa Fe", "Stargazer", "Creta", "Staria", "Elantra", "H-100", "Kona", "Ioniq 5"
+  ],
+  "Isuzu": [
+    "D-Max", "mu-X", "Crosswind", "Traviz"
+  ],
+  "Suzuki": [
+    "Ertiga", "Jimny", "Swift", "Dzire", "S-Presso", "XL7", "APV", "Ciaz", "Vitara"
+  ]
+}
