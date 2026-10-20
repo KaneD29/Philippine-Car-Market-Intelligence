@@ -1,0 +1,15 @@
+# Python caches
+__pycache__/
+*.py[cod]
+.venv/
+
+# Scraper output data
+data/*.csv
+data/*.json
+data/*.xlsx
+!data/.gitkeep
+
+# Playwright execution artifacts
+.playwright/
+tracing/
+screenshots/
